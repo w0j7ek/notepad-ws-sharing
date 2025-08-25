@@ -1,11 +1,11 @@
 Notepad
 
 
--live sharing notes with websocket
--translate with google translate endpoint
--exporting notes to pdf
--markdown implementation
--typeracer
+- live sharing notes with websocket
+- translate with google translate endpoint
+- exporting notes to pdf
+- markdown implementation
+- typeracer
 
 
 
